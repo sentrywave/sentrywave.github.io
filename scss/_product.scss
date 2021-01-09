@@ -1,9 +1,10 @@
 /* Feature Area css
 ============================================================================================ */
-.feature-area{
-	
+.product-area {
+
 	position: relative;
-	&:after{
+
+	&:after {
 		content: '';
 		position: absolute;
 		width: 50%;
@@ -16,24 +17,25 @@
 
 	}
 
-	@media (max-width: 1199px){
+	@media (max-width: 1199px) {
 		&:after {
 			left: 25px;
 			background-size: contain;
 			width: 40%;
 		}
 	}
+
 	.area-heading {
 		margin-bottom: 50px;
 	}
 
-	.single-feature{
-		text-align: left;		
+	.single-product {
+		text-align: left;
 		@include transition;
-		&:hover{
-			
-		}
-		.feature-icon {
+
+		&:hover {}
+
+		.product-icon {
 			width: 80px;
 			height: 80px;
 			text-align: center;
@@ -43,7 +45,8 @@
 			line-height: 100px;
 			min-width: 80px;
 			margin-right: 40px;
-			&:after{
+
+			&:after {
 				content: '';
 				position: absolute;
 				height: 80px;
@@ -54,19 +57,22 @@
 				z-index: -1;
 				top: 0;
 			}
-			i{
+
+			i {
 				font-size: 40px;
 				color: $dip;
 			}
 		}
-		.single-feature-content{
-			h5{
+
+		.single-product-content {
+			h5 {
 				font-size: 20px;
 				font-weight: 600;
 				color: $white;
 				margin-bottom: 18px;
 			}
-			p{
+
+			p {
 				line-height: 27px;
 				font-size: 14px;
 				margin-bottom: 35px;
@@ -75,14 +81,16 @@
 
 		}
 	}
-	.col-:nth-child(1) .single-feature{
-		.feature-icon:after{
+
+	.col-:nth-child(1) .single-product {
+		.product-icon:after {
 			background: $circle1;
 		}
 
 	}
-	.col-:nth-child(2) .single-feature{
-		.feature-icon:after{
+
+	.col-:nth-child(2) .single-product {
+		.product-icon:after {
 			background: $circle2;
 		}
 
@@ -91,15 +99,17 @@
 }
 
 
-.area-heading.light{
+.area-heading.light {
 
-	h4{
+	h4 {
 		color: $white;
 	}
-	h6{
+
+	h6 {
 		color: $white;
 	}
-	p{
+
+	p {
 		color: $white;
 	}
 }
@@ -111,15 +121,17 @@
 /* Brands  Area css
 ============================================================================================ */
 
-.single-brand-item{
+.single-brand-item {
 	cursor: pointer;
 	margin: 0 auto;
-	img{
+
+	img {
 		filter: grayscale(100%);
 		@include transition;
 	}
-	&:hover{
-		img{
+
+	&:hover {
+		img {
 			filter: grayscale(0);
 			@include transition;
 		}
@@ -130,23 +142,26 @@
 ============================================================================================ */
 
 
-/* Features  Area css
+/* Products  Area css
 ============================================================================================ */
-.faq_area{
+.faq_area {
 
 	.card {
 		border: none;
 		border-radius: 0;
 		margin-bottom: 20px;
+
 		.card-header {
-			
+
 			border-radius: 0;
 			border: none;
 			background-color: #fff;
 		}
+
 		.card-header:first-child {
 			border-radius: 0;
 		}
+
 		.btn-link.collapsed {
 			border: 1px solid #e9ecef;
 			background: #f6f6f6;
@@ -157,18 +172,22 @@
 			text-align: left;
 			box-shadow: none;
 			@include transition;
-			&:hover{
+
+			&:hover {
 				text-decoration: none;
-			}		
+			}
 		}
+
 		.card-body {
 			font-weight: 300;
 			font-size: 14px;
 			line-height: 27px;
 		}
+
 		.card-header {
 			padding: 0;
 		}
+
 		.btn-link {
 			font-weight: 600;
 			color: #1d1d1d;
@@ -178,9 +197,10 @@
 			padding: 13px 15px;
 			box-shadow: 0px 5px 15px 0px rgba(42, 34, 123, 0.1);
 			@include transition;
-			&:hover{
+
+			&:hover {
 				text-decoration: none;
-			}		
+			}
 		}
 	}
 
@@ -202,5 +222,5 @@
 }
 
 
-/* End Features  Area css
+/* End Products  Area css
 ============================================================================================ */
