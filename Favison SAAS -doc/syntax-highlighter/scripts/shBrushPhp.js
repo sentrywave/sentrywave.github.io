@@ -26,7 +26,7 @@
 						'array_diff_assoc array_diff_key array_diff_uassoc array_diff_ukey array_fill '+
 						'array_filter array_flip array_intersect array_intersect_assoc array_intersect_key '+
 						'array_intersect_uassoc array_intersect_ukey array_key_exists array_keys array_map '+
-						'array_merge array_merge_recursive array_multisort array_pad array_pop array_product '+
+						'array_merge array_merge_recursive array_multisort array_pad array_pop array_feature '+
 						'array_push array_rand array_reduce array_reverse array_search array_shift '+
 						'array_slice array_splice array_sum array_udiff array_udiff_assoc '+
 						'array_udiff_uassoc array_uintersect array_uintersect_assoc '+

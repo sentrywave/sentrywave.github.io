@@ -1,6 +1,6 @@
 /* Feature Area css
 ============================================================================================ */
-.product-area {
+.feature-area {
 
 	position: relative;
 
@@ -29,13 +29,13 @@
 		margin-bottom: 50px;
 	}
 
-	.single-product {
+	.single-feature {
 		text-align: left;
 		@include transition;
 
 		&:hover {}
 
-		.product-icon {
+		.feature-icon {
 			width: 80px;
 			height: 80px;
 			text-align: center;
@@ -64,7 +64,7 @@
 			}
 		}
 
-		.single-product-content {
+		.single-feature-content {
 			h5 {
 				font-size: 20px;
 				font-weight: 600;
@@ -82,15 +82,15 @@
 		}
 	}
 
-	.col-:nth-child(1) .single-product {
-		.product-icon:after {
+	.col-:nth-child(1) .single-feature {
+		.feature-icon:after {
 			background: $circle1;
 		}
 
 	}
 
-	.col-:nth-child(2) .single-product {
-		.product-icon:after {
+	.col-:nth-child(2) .single-feature {
+		.feature-icon:after {
 			background: $circle2;
 		}
 
@@ -142,7 +142,7 @@
 ============================================================================================ */
 
 
-/* Products  Area css
+/* Features  Area css
 ============================================================================================ */
 .faq_area {
 
@@ -222,5 +222,5 @@
 }
 
 
-/* End Products  Area css
+/* End Features  Area css
 ============================================================================================ */

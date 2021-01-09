@@ -182,16 +182,16 @@ section p {
     margin: 35px auto 0;
 }
 
-.products {
+.features {
     margin-top: 50px;
 }
 
-.products ul li {
+.features ul li {
     list-style: square outside none;
     margin-bottom: 15px;
 }
 
-.products>ul {
+.features>ul {
     padding-left: 18px;
 }
 
