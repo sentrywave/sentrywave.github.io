@@ -1,4 +1,6 @@
+# Everything here is public. Search engines and AI crawlers are welcome.
 User-agent: *
 Allow: /
+Disallow: /404.html
 
 Sitemap: https://sentrywave.com/sitemap.xml

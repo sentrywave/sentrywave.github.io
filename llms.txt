@@ -1,0 +1,34 @@
+# Sentrywave
+
+> Sentrywave (Private) Limited is a software company in Harare, Zimbabwe. It builds and runs its own products (SentryWave Hotspot and Dariro) and builds web and mobile software, mobile-money payment integrations and hosting for clients. BuildMate, a building materials delivery business, is run by the related company SiteAxis Enterprises (Private) Limited.
+
+Key facts:
+
+- Location: Harare, Zimbabwe. Serves customers across Zimbabwe.
+- Contact: info@sentrywave.com, +263 78 213 5087
+- Payment methods supported across the products: EcoCash, InnBucks, O'mari, OneMoney, Visa, Mastercard, bank transfer, cash on delivery.
+- Hardware supported by SentryWave Hotspot: MikroTik (RouterOS) and Ruijie/Reyee routers.
+
+## Products
+
+- [SentryWave Hotspot](https://hotspot.sentrywave.com/): A billing platform for WiFi providers. Customers join your WiFi, pick a package and pay with EcoCash, InnBucks or O'mari, and their token reaches your router automatically. Run by Sentrywave (Private) Limited.
+- [Dariro](https://dariro.co.zw/): Paid promotion on social media in Zimbabwe. Brands put their song, show, shop or cause in front of real followers, and Dariro holds the money until the post is up. Run by Sentrywave (Private) Limited.
+- [BuildMate](https://buildmate.co.zw/): Compare brick yards and quarries around Harare, see the full delivered price to your site, and order online or on WhatsApp. Run by SiteAxis Enterprises (Private) Limited.
+
+## Companies
+
+- Sentrywave (Private) Limited, company number 104894A1042026. Software development, payments and online platforms. Builds and runs SentryWave Hotspot and Dariro. Verify: https://cipz.pfms.gov.zw:8090/Info/Checkacompany?=104894A1042026
+- SiteAxis Enterprises (Private) Limited, company number 139680A0292026. Building materials supply and delivery. Trades as BuildMate. Verify: https://cipz.pfms.gov.zw:8090/Info/Checkacompany?=139680A0292026
+
+## Pages
+
+- [Home](https://sentrywave.com/): products, services and companies
+- [About](https://sentrywave.com/about.html): how we work, who runs what, frequently asked questions
+- [Contact](https://sentrywave.com/contact.html): email, phone and product support contacts
+
+## Optional
+
+- [Privacy policy](https://sentrywave.com/privacy.html): privacy policy for the Sentrywave WhatsApp chatbot
+- [Terms and conditions](https://sentrywave.com/terms.html): terms for the Sentrywave WhatsApp chatbot
+- [GitHub](https://github.com/sentrywave)
+- [LinkedIn](https://www.linkedin.com/company/sentrywave)
